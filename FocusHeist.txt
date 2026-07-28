@@ -1,0 +1,69 @@
+I got an idea for our NCSC school project. The app name could be:
+
+FocusHeist
+“Steal Your Focus Back.”
+
+The main idea is to create a distraction-free study and school-management app that helps students organize their work, stay focused, and study more efficiently.
+
+The app could include:
+
+Daily study tasks and goals
+Study timetable
+Focus/Pomodoro timer
+Distraction-free study mode
+Subject-wise notes and resources
+Study progress and focus statistics
+Smart study-plan suggestions
+A teacher/smart-board mode for quickly opening lessons, PDFs, presentations, videos, and quizzes
+
+For NCSC, we can connect it with sustainable education by reducing unnecessary paper use, organizing digital learning resources, saving classroom time, and encouraging responsible use of smart boards and other school devices.
+
+Before we finalize it, I want your opinion:
+
+1. Do you like the FocusHeist idea and title?
+2. Should we focus mainly on students, or include a smart-board/teacher mode too?
+3. Which features do you think are most useful?
+4. Do you have any better ideas or improvements?
+5. Are you ready to work on this together for NCSC?
+
+I think we should first survey students and teachers, find their biggest study/classroom problems, and then build the app based on the results. 🔥
+
+Brief explanation of how FocusHeist works
+
+FocusHeist is like a personal digital study workspace. Instead of students opening many apps, checking notifications, searching for notes, and losing focus, they can keep their important study work in one place.
+
+The basic flow would be:
+
+Open FocusHeist → Select today’s tasks → Start a focus session → Study without distractions → Complete tasks → View progress
+
+For example:
+
+A student opens FocusHeist and sees:
+Maths homework — 30 minutes
+Physics revision — 45 minutes
+English notes — 20 minutes
+
+The student selects Physics and starts a 45-minute Focus Session. During the session, FocusHeist shows only the timer, study goal, and required notes/resources. After finishing, the student marks the task complete and earns progress toward their daily goal.
+
+The app can then show:
+
+Total focused study time
+Completed tasks
+Subject-wise progress
+Daily and weekly focus statistics
+Study streaks
+Suggestions for unfinished work
+
+For the smart-board mode, a teacher could open FocusHeist and quickly select:
+
+Class → Subject → Chapter → Lesson material
+
+Then the teacher can open a PDF, presentation, video, quiz, or digital worksheet without searching through many folders.
+
+The project’s main goal can be written as:
+
+“FocusHeist is a distraction-free digital learning and classroom-management platform designed to improve students’ focus, organize educational resources, reduce unnecessary paper use, and make smart-classroom learning more efficient.”
+
+The name is also strong because “Heist” gives it a unique gaming-style identity:
+
+Distractions steal your attention. FocusHeist helps you steal it back. 🧠⚡
