@@ -6,8 +6,8 @@ export const SUPABASE_URL = "https://yfircmjyzurrupnppezk.supabase.co";
 export const SUPABASE_ANON_KEY =
   "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlmaXJjbWp5enVycnVwbnBwZXprIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODUzMTkyMTUsImV4cCI6MjEwMDg5NTIxNX0.GiOpeWJYyc3jW01kP4SQ2DrVXdRK3vXLlmxDhLsHGiY";
 
-export const SB_TABLE = "focusheist_progress";
-export const SB_BUCKET = "classwork-files";
+export const SB_TABLE = "ncsctable";
+export const SB_BUCKET = "NCSbucket";
 
 const authHeaders = (extra = {}) => ({
   apikey: SUPABASE_ANON_KEY,
